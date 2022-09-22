@@ -1,0 +1,440 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "name": "Tostaco",
+      "category": "Carnes",
+      "cantidad": 1,
+      "total": 11550,
+      "price": 11550,
+      "image": "https://exitocol.vtexassets.com/arquivos/ids/1762636-500-auto?v=637232722355270000&width=500&height=auto&aspect=true"
+    },
+    {
+      "id": 2,
+      "name": "Maizit",
+      "category": "Snack",
+      "cantidad": 1,
+      "total": 10500,
+      "price": 10500,
+      "image": "https://exitocol.vtexassets.com/arquivos/ids/1767869-500-auto?v=637233649366470000&width=500&height=auto&aspect=true"
+    },
+    {
+      "id": 3,
+      "name": "Jet",
+      "category": "Snack",
+      "price": 6200,
+      "cantidad": 1,
+      "total": 6200,
+      "image": "https://exitocol.vtexassets.com/arquivos/ids/1961255-500-auto?v=637258268023900000&width=500&height=auto&aspect=true"
+    },
+    {
+      "id": 4,
+      "name": "Margarita mi",
+      "category": "Snack",
+      "cantidad": 1,
+      "total": 24100,
+      "price": 24100,
+      "image": "https://exitocol.vtexassets.com/arquivos/ids/1964459-500-auto?v=637258604452370000&width=500&height=auto&aspect=true"
+    },
+    {
+      "id": 5,
+      "name": "Ducales",
+      "category": "Snack",
+      "price": 6180,
+      "cantidad": 1,
+      "total": 6180,
+      "image": "https://exitocol.vtexassets.com/arquivos/ids/2423548-500-auto?v=637296615016170000&width=500&height=auto&aspect=true"
+    },
+    {
+      "id": 6,
+      "name": "Doritos",
+      "category": "Snack",
+      "price": 17250,
+      "cantidad": 1,
+      "total": 17250,
+      "image": "https://exitocol.vtexassets.com/arquivos/ids/4538278-500-auto?v=637383898861270000&width=500&height=auto&aspect=true"
+    },
+    {
+      "id": 7,
+      "name": "Takis",
+      "category": "Snack",
+      "price": 2650,
+      "cantidad": 1,
+      "total": 2650,
+      "image": "https://exitocol.vtexassets.com/arquivos/ids/13141284-500-auto?v=637898891246330000&width=500&height=auto&aspect=true"
+    },
+    {
+      "id": 8,
+      "name": "Festival",
+      "category": "Snack",
+      "price": 7470,
+      "cantidad": 1,
+      "total": 7470,
+      "image": "https://exitocol.vtexassets.com/arquivos/ids/13174077-500-auto?v=637899428951670000&width=500&height=auto&aspect=true"
+    },
+    {
+      "id": 9,
+      "name": "Galleta tipo leche",
+      "category": "Snack",
+      "price": 6990,
+      "cantidad": 1,
+      "total": 6990,
+      "image": "https://exitocol.vtexassets.com/arquivos/ids/13174085-500-auto?v=637899429006400000&width=500&height=auto&aspect=true"
+    },
+    {
+      "id": 10,
+      "name": "Pan Perro",
+      "category": "Panadería",
+      "price": 4140,
+      "cantidad": 1,
+      "total": 4140,
+      "image": "https://exitocol.vtexassets.com/arquivos/ids/1910423-500-auto?v=637254063259100000&width=500&height=auto&aspect=true"
+    },
+    {
+      "id": 11,
+      "name": "Pan tajado ekono",
+      "category": "Panadería",
+      "price": 3860,
+      "cantidad": 1,
+      "total": 3860,
+      "image": "https://exitocol.vtexassets.com/arquivos/ids/13315359-500-auto?v=637911314956500000&width=500&height=auto&aspect=true"
+    },
+    {
+      "id": 12,
+      "name": "Pan hamburguesa dorado",
+      "category": "Panadería",
+      "price": 5770,
+      "cantidad": 1,
+      "total": 5770,
+      "image": "https://exitocol.vtexassets.com/arquivos/ids/13183901-500-auto?v=637900862882830000&width=500&height=auto&aspect=true"
+    },
+    {
+      "id": 13,
+      "name": "Tostada mantequilla",
+      "category": "Panadería",
+      "price": 7510,
+      "cantidad": 1,
+      "total": 7510,
+      "image": "https://exitocol.vtexassets.com/arquivos/ids/13174333-500-auto?v=637899441258670000&width=500&height=auto&aspect=true"
+    },
+    {
+      "id": 14,
+      "name": "Pan integral",
+      "category": "Panadería",
+      "price": 8930,
+      "cantidad": 1,
+      "total": 8930,
+      "image": "https://exitocol.vtexassets.com/arquivos/ids/12612218-500-auto?v=637868359908400000&width=500&height=auto&aspect=true"
+    },
+    {
+      "id": 15,
+      "name": "Tostada blanca",
+      "category": "Panadería",
+      "price": 1640,
+      "cantidad": 1,
+      "total": 1640,
+      "image": "https://exitocol.vtexassets.com/arquivos/ids/12602976-500-auto?v=637867849002570000&width=500&height=auto&aspect=true"
+    },
+    {
+      "id": 16,
+      "name": "Pan Frescampo",
+      "category": "Panadería",
+      "price": 2980,
+      "cantidad": 1,
+      "total": 2980,
+      "image": "https://exitocol.vtexassets.com/arquivos/ids/12602920-500-auto?v=637867845581970000&width=500&height=auto&aspect=true"
+    },
+    {
+      "id": 17,
+      "name": "Pan Fit",
+      "category": "Panadería",
+      "price": 6370,
+      "cantidad": 1,
+      "total": 6370,
+      "image": "https://exitocol.vtexassets.com/arquivos/ids/12602918-500-auto?v=637867845569470000&width=500&height=auto&aspect=true"
+    },
+    {
+      "id": 18,
+      "name": "Pan Vital",
+      "category": "Panadería",
+      "price": 9270,
+      "cantidad": 1,
+      "total": 9270,
+      "image": "https://exitocol.vtexassets.com/arquivos/ids/12602896-500-auto?v=637867845438000000&width=500&height=auto&aspect=true"
+    },
+    {
+      "id": 19,
+      "name": "Duopack Gaseosa",
+      "category": "Bebidas",
+      "price": 11400,
+      "cantidad": 1,
+      "total": 11400,
+      "image": "https://exitocol.vtexassets.com/arquivos/ids/13183998-500-auto?v=637900869155330000&width=500&height=auto&aspect=true"
+    },
+    {
+      "id": 20,
+      "name": "Bebida Naranja",
+      "category": "Bebidas",
+      "price": 3090,
+      "cantidad": 1,
+      "total": 3090,
+      "image": "https://exitocol.vtexassets.com/arquivos/ids/13181539-500-auto?v=637900280998370000&width=500&height=auto&aspect=true"
+    },
+    {
+      "id": 21,
+      "name": "Bipack Bebida Naranja",
+      "category": "Bebidas",
+      "price": 7990,
+      "cantidad": 1,
+      "total": 7990,
+      "image": "https://exitocol.vtexassets.com/arquivos/ids/13179846-500-auto?v=637900155183400000&width=500&height=auto&aspect=true"
+    },
+    {
+      "id": 22,
+      "name": "Soda Bretaña X 12",
+      "category": "Bebidas",
+      "price": 22650,
+      "cantidad": 1,
+      "total": 22650,
+      "image": "https://exitocol.vtexassets.com/arquivos/ids/13177402-500-auto?v=637899633350630000&width=500&height=auto&aspect=true"
+    },
+    {
+      "id": 23,
+      "name": "Zero sixpack",
+      "category": "Bebidas",
+      "price": 12200,
+      "cantidad": 1,
+      "total": 12200,
+      "image": "https://exitocol.vtexassets.com/arquivos/ids/13177341-500-auto?v=637899632985530000&width=500&height=auto&aspect=true"
+    },
+    {
+      "id": 24,
+      "name": "Agua Brisa Garrafa",
+      "category": "Bebidas",
+      "price": 8180,
+      "cantidad": 1,
+      "total": 8180,
+      "image": "https://exitocol.vtexassets.com/arquivos/ids/13173998-500-auto?v=637899422893270000&width=500&height=auto&aspect=true"
+    },
+    {
+      "id": 25,
+      "name": "Agua Brisa",
+      "category": "Bebidas",
+      "price": 1000,
+      "cantidad": 1,
+      "total": 1000,
+      "image": "https://exitocol.vtexassets.com/arquivos/ids/13173985-500-auto?v=637899418000270000&width=500&height=auto&aspect=true"
+    },
+    {
+      "id": 26,
+      "name": "Gaseosa Zero",
+      "category": "Bebidas",
+      "price": 4360,
+      "cantidad": 1,
+      "total": 4360,
+      "image": "https://exitocol.vtexassets.com/arquivos/ids/13173923-500-auto?v=637899416944100000&width=500&height=auto&aspect=true"
+    },
+    {
+      "id": 27,
+      "name": "Pony Malta",
+      "category": "Bebidas",
+      "price": 1110,
+      "cantidad": 1,
+      "total": 1110,
+      "image": "https://exitocol.vtexassets.com/arquivos/ids/13173852-500-auto?v=637899411110100000&width=500&height=auto&aspect=true"
+    },
+    {
+      "id": 28,
+      "name": "Pepino",
+      "category": "Frutas y verduras",
+      "price": 1620,
+      "cantidad": 1,
+      "total": 1620,
+      "image": "https://exitocol.vtexassets.com/arquivos/ids/13316098-500-auto?v=637911326761830000&width=500&height=auto&aspect=true"
+    },
+    {
+      "id": 29,
+      "name": "Banano",
+      "category": "Frutas y verduras",
+      "price": 460,
+      "cantidad": 1,
+      "total": 460,
+      "image": "https://exitocol.vtexassets.com/arquivos/ids/13315474-500-auto?v=637911318850530000&width=500&height=auto&aspect=true"
+    },
+    {
+      "id": 30,
+      "name": "Papa Capira",
+      "category": "Frutas y verduras",
+      "price": 1240,
+      "cantidad": 1,
+      "total": 1240,
+      "image": "https://exitocol.vtexassets.com/arquivos/ids/9592357-500-auto?v=637661981791100000&width=500&height=auto&aspect=true"
+    },
+    {
+      "id": 31,
+      "name": "Limón",
+      "category": "Frutas y verduras",
+      "price": 340,
+      "cantidad": 1,
+      "total": 340,
+      "image": "https://exitocol.vtexassets.com/arquivos/ids/11317748-500-auto?v=637752022562200000&width=500&height=auto&aspect=true"
+    },
+    {
+      "id": 32,
+      "name": "Pechuga Marinada",
+      "category": "Carnes",
+      "price": 15700,
+      "cantidad": 1,
+      "total": 15700,
+      "image": "https://exitocol.vtexassets.com/arquivos/ids/12922344-500-auto?v=637884998872600000&width=500&height=auto&aspect=true"
+    },
+    {
+      "id": 33,
+      "name": "Carne Asar Freir",
+      "category": "Carnes",
+      "price": 13150,
+      "cantidad": 1,
+      "total": 13150,
+      "image": "https://exitocol.vtexassets.com/arquivos/ids/13226854-500-auto?v=637903013565100000&width=500&height=auto&aspect=true"
+    },
+    {
+      "id": 34,
+      "name": "Tocino Barriguero",
+      "category": "Carnes",
+      "price": 10250,
+      "cantidad": 1,
+      "total": 10250,
+      "image": "https://exitocol.vtexassets.com/arquivos/ids/13226919-500-auto?v=637903014981970000&width=500&height=auto&aspect=true"
+    },
+    {
+      "id": 35,
+      "name": "Chuleta de cerdo",
+      "category": "Carnes",
+      "price": 5450,
+      "cantidad": 1,
+      "total": 5450,
+      "image": "https://exitocol.vtexassets.com/arquivos/ids/13227292-800-auto?v=637903025180600000&width=800&height=auto&aspect=true"
+    },
+    {
+      "id": 36,
+      "name": "Jamón Sanduche",
+      "category": "Lácteos",
+      "price": 12000,
+      "cantidad": 1,
+      "total": 12000,
+      "image": "https://exitocol.vtexassets.com/arquivos/ids/1975511-500-auto?v=637259072024200000&width=500&height=auto&aspect=true"
+    },
+    {
+      "id": 37,
+      "name": "Leche Entera",
+      "category": "Lácteos",
+      "price": 2790,
+      "cantidad": 1,
+      "total": 2790,
+      "image": "https://exitocol.vtexassets.com/arquivos/ids/6834595-500-auto?v=637503802105470000&width=500&height=auto&aspect=true"
+    },
+    {
+      "id": 38,
+      "name": "Queso parmesano",
+      "category": "Lácteos",
+      "price": 9970,
+      "cantidad": 1,
+      "total": 9970,
+      "image": "https://exitocol.vtexassets.com/arquivos/ids/9364946-500-auto?v=637648964777270000&width=500&height=auto&aspect=true"
+    },
+    {
+      "id": 39,
+      "name": "Huevos",
+      "category": "Lácteos",
+      "price": 23900,
+      "cantidad": 1,
+      "total": 23900,
+      "image": "https://exitocol.vtexassets.com/arquivos/ids/13435462-500-auto?v=637926508662630000&width=500&height=auto&aspect=true"
+    },
+    {
+      "id": 40,
+      "name": "Vino La Piuma Marca",
+      "category": "Bebidas alcohólicas",
+      "price": 27900,
+      "cantidad": 1,
+      "total": 27900,
+      "image": "https://exitocol.vtexassets.com/arquivos/ids/12313014-500-auto?v=637847652740070000&width=500&height=auto&aspect=true"
+    },
+    {
+      "id": 41,
+      "name": "Tequila Jose Cuervo",
+      "category": "Bebidas alcohólicas",
+      "price": 76500,
+      "cantidad": 1,
+      "total": 76500,
+      "image": "https://exitocol.vtexassets.com/arquivos/ids/11965938-500-auto?v=637813908045470000&width=500&height=auto&aspect=true"
+    },
+    {
+      "id": 42,
+      "name": "Vino Gato Negro",
+      "category": "Bebidas alcohólicas",
+      "price": 46200,
+      "cantidad": 1,
+      "total": 46200,
+      "image": "https://exitocol.vtexassets.com/arquivos/ids/11085824-500-auto?v=637741984997830000&width=500&height=auto&aspect=true"
+    },
+    {
+      "id": 43,
+      "name": "Aguila",
+      "category": "Bebidas alcohólicas",
+      "cantidad": 1,
+      "total": 2000,
+      "price": 2000,
+      "image": "https://supermercadosla80.com/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOWpRTFE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0e909ddeaffdeeac2dfdda4159f56544a8b67d1c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9TY21WemFYcGxYM1J2WDJacGRGc0hhUUlnQTJrQ0lBTTZER052Ym5abGNuUkpJZ2hxY0djR09nWkZWRG9LYzJGMlpYSjdDRG9NY1hWaGJHbDBlV2xmT2dwemRISnBjRlE2RDJKaFkydG5jbTkxYm1SYkNHa0IvMmtCLzJrQi93PT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--f9b6205701877dad933126b17f2a1a57fbbba520/cerveza%20aguila%20original%20laton.jpg?locale=es"
+    }
+  ],
+  "compras": [
+    [
+      {
+        "id": 2,
+        "name": "Maizito",
+        "category": "Snack",
+        "cantidad": 1,
+        "total": 10500,
+        "price": 10500,
+        "image": "https://exitocol.vtexassets.com/arquivos/ids/1767869-500-auto?v=637233649366470000&width=500&height=auto&aspect=true"
+      },
+      {
+        "id": 3,
+        "name": "Jet",
+        "category": "Snack",
+        "price": 6200,
+        "cantidad": 1,
+        "total": 6200,
+        "image": "https://exitocol.vtexassets.com/arquivos/ids/1961255-500-auto?v=637258268023900000&width=500&height=auto&aspect=true"
+      },
+      {
+        "id": 9,
+        "name": "Galleta tipo leche",
+        "category": "Snack",
+        "price": 6990,
+        "cantidad": 1,
+        "total": 6990,
+        "image": "https://exitocol.vtexassets.com/arquivos/ids/13174085-500-auto?v=637899429006400000&width=500&height=auto&aspect=true"
+      },
+      {
+        "id": 8,
+        "name": "Festival",
+        "category": "Snack",
+        "price": 7470,
+        "cantidad": 1,
+        "total": 7470,
+        "image": "https://exitocol.vtexassets.com/arquivos/ids/13174077-500-auto?v=637899428951670000&width=500&height=auto&aspect=true"
+      },
+      {
+        "id": 7,
+        "name": "Takis",
+        "category": "Snack",
+        "price": 2650,
+        "cantidad": 1,
+        "total": 2650,
+        "image": "https://exitocol.vtexassets.com/arquivos/ids/13141284-500-auto?v=637898891246330000&width=500&height=auto&aspect=true"
+      }
+    ]
+  ]
+}
